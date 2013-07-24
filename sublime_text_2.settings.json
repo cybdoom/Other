@@ -55,7 +55,7 @@
 
     // Makes auto indent a little smarter, e.g., by indenting the next line
     // after an if statement in C. Requires auto_indent to be enabled.
-    "smart_indent": true,
+    "smart_indent": false,
 
     // Adds whitespace up to the first open bracket when indenting. Requires
     // auto_indent to be enabled.
@@ -183,7 +183,7 @@
     // Determines what character(s) are used to terminate each line in new files.
     // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and
     // 'unix' (LF only).
-    "default_line_ending": "system",
+    "default_line_ending": "LF",
 
     // When enabled, pressing tab will insert the best matching completion.
     // When disabled, tab will only trigger snippets or insert a tab.
