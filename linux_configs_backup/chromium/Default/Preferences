@@ -1,0 +1,2744 @@
+{
+   "autofill": {
+      "negative_upload_rate": 1.0,
+      "positive_upload_rate": 1.0
+   },
+   "bookmark_bar": {
+      "show_on_all_tabs": true
+   },
+   "browser": {
+      "clear_lso_data_enabled": true,
+      "last_clear_browsing_data_time": "13019568642785884",
+      "last_known_google_url": "https://www.google.com.ua/",
+      "last_prompted_google_url": "https://www.google.com.ua/",
+      "pepper_flash_settings_enabled": false,
+      "window_placement": {
+         "bottom": 1076,
+         "left": 0,
+         "maximized": false,
+         "right": 1916,
+         "top": 19,
+         "work_area_bottom": 1080,
+         "work_area_left": 0,
+         "work_area_right": 1920,
+         "work_area_top": 0
+      },
+      "window_placement_DevToolsApp": {
+         "always_on_top": false,
+         "bottom": 1076,
+         "left": 0,
+         "maximized": false,
+         "right": 956,
+         "top": 19,
+         "work_area_bottom": 1080,
+         "work_area_left": 0,
+         "work_area_right": 1920,
+         "work_area_top": 0
+      }
+   },
+   "cloud_print": {
+      "email": ""
+   },
+   "countryid_at_install": 21843,
+   "default_apps_install_state": 3,
+   "default_search_provider": {
+      "alternate_urls": [ "{google:baseURL}#q={searchTerms}", "{google:baseURL}search#q={searchTerms}", "{google:baseURL}webhp#q={searchTerms}" ],
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?sourceid=chrome-instant&{google:RLZ}{google:instantEnabledParameter}{google:instantExtendedEnabledParameter}{google:ntpIsThemedParameter}{google:omniboxStartMarginParameter}ie={inputEncoding}",
+      "keyword": "google.com.ua",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_terms_replacement_key": "espv",
+      "search_url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}{google:instantExtendedEnabledParameter}ie={inputEncoding}",
+      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client=chrome&q={searchTerms}&{google:cursorPosition}{google:zeroPrefixUrl}sugkey={google:suggestAPIKeyParameter}",
+      "synced_guid": "97827B46-90D8-4746-BBD6-B9FF6CEF707D"
+   },
+   "devtools": {
+      "split_location": 556
+   },
+   "dns_prefetching": {
+      "enabled": true
+   },
+   "download": {
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "alerts": {
+         "initialized": true
+      },
+      "autoupdate": {
+         "last_check": "13019843865937420",
+         "next_check": "13019862064050364"
+      },
+      "blacklistupdate": {
+         "lastpingday": "13019814309144271",
+         "version": "0.0.0.149"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "last_chrome_version": "28.0.1500.71",
+      "settings": {
+         "aakhlmakppmkkmfkoibponkmmpgpmjgl": {
+            "blacklist": true
+         },
+         "aandpgohbohmlknpjbblpmoladhoochg": {
+            "blacklist": true
+         },
+         "aangdcfipmfploijfkoonkajgpdkfmbm": {
+            "blacklist": true
+         },
+         "abciiempgohamehppammbkhkicmkgkob": {
+            "blacklist": true
+         },
+         "abfclfmhaemoockhhinpplncjehfpdbd": {
+            "blacklist": true
+         },
+         "abidmaanmbfeddegmapgpjhdmgjaloen": {
+            "blacklist": true
+         },
+         "acchaoeabgiclhngknbkegekbfphgndl": {
+            "blacklist": true
+         },
+         "acmpfcamncegnhjdeiodgilikjafcamg": {
+            "blacklist": true
+         },
+         "acomnmbomlajgjbcijkflekoojdfcldj": {
+            "blacklist": true
+         },
+         "aconhjfogglfnkjhkjipaifepjklolog": {
+            "blacklist": true
+         },
+         "aebfkgcamgnimcbnbiopgdakknjgggnm": {
+            "blacklist": true
+         },
+         "aemcjbfajnnmhblifaejadoecfoaebld": {
+            "blacklist": true
+         },
+         "afenhmponmfmdmbmccbmglppcmjhmhmh": {
+            "blacklist": true
+         },
+         "aglmapjbjphdidmnileogpjkgpdoliep": {
+            "blacklist": true
+         },
+         "agmhonoepgcnakccfpidhjehlocaeaaj": {
+            "blacklist": true
+         },
+         "agodbcffjkjcnceklapkjfcmkfepmbgm": {
+            "blacklist": true
+         },
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "active_permissions": {
+               "api": [ "management", "webstorePrivate" ]
+            },
+            "app_launcher_ordinal": "n",
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13014112617589897",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://chrome.google.com/webstore"
+                  },
+                  "urls": [ "https://chrome.google.com/webstore" ]
+               },
+               "description": "Chrome Web Store",
+               "icons": {
+                  "128": "webstore_icon_128.png",
+                  "16": "webstore_icon_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtl3tO0osjuzRsf6xtD2SKxPlTfuoy7AWoObysitBPvH5fE1NaAA1/2JkPWkVDhdLBWLaIBPYeXbzlHp3y4Vv/4XG+aN5qFE3z+1RU/NqkzVYHtIpVScf3DjTYtKVL66mzVGijSoAIwbFCC3LpGdaoe6Q1rSRDp76wR6jjFzsYwQIDAQAB",
+               "name": "Store",
+               "permissions": [ "webstorePrivate", "management" ],
+               "version": "0.2"
+            },
+            "page_ordinal": "n",
+            "path": "/usr/lib/chromium/resources/web_store",
+            "was_installed_by_default": false
+         },
+         "ahjfgnikolodijnpakeknpilnemojlhc": {
+            "blacklist": true
+         },
+         "aieglpnmmhleoenpbmfaffppfomgjmba": {
+            "blacklist": true
+         },
+         "aieihijcjcccdiepockaiekhpflicdii": {
+            "blacklist": true
+         },
+         "aifmjmboebdkdelpjenakhaodgneempp": {
+            "blacklist": true
+         },
+         "ajlkjjdbgcjdiklbcomhnfghjigfccoh": {
+            "blacklist": true
+         },
+         "ajneiojjdhceikkgmhnjhgaacpfhldpi": {
+            "blacklist": true
+         },
+         "akadaakimgegecohlifeejdnnjbnobop": {
+            "blacklist": true
+         },
+         "akbdojiajlefghcdclgkgmbbljamgehd": {
+            "blacklist": true
+         },
+         "alcbnnpmipohgdllkkglhkbncijplago": {
+            "blacklist": true
+         },
+         "aldalonecchncedclgcndcndgilaclnk": {
+            "blacklist": true
+         },
+         "alelhddbbhepgpmgidjdcjakblofbmce": {
+            "active_permissions": {
+               "api": [ "cookies", "plugin", "tabs" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*", "https://accounts.google.com/*" ],
+               "scriptable_host": [ "http://*/*", "http://awesomescreenshot.com/save-local-flash/SaveToDisk.html", "http://www.google.com/robots.txt*", "https://*/*" ]
+            },
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "cookies", "plugin", "tabs" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "https://accounts.google.com/*" ],
+               "scriptable_host": [ "http://*/*", "http://awesomescreenshot.com/save-local-flash/SaveToDisk.html", "http://www.google.com/robots.txt*", "https://*/*" ]
+            },
+            "install_time": "13013875909977009",
+            "lastpingday": "13019814309233225",
+            "location": 1,
+            "manifest": {
+               "api_console_project_id": "250015934524",
+               "background": {
+                  "page": "background.html"
+               },
+               "browser_action": {
+                  "default_icon": "images/icon19.png",
+                  "default_popup": "popup.html",
+                  "default_title": "Awesome Screenshot: Capture & Annotate"
+               },
+               "container": "GOOGLE_DRIVE",
+               "content_scripts": [ {
+                  "css": [ "stylesheets/selected.css" ],
+                  "exclude_globs": [ "http://awesomescreenshot.com/save-local-flash/SaveToDisk.html" ],
+                  "js": [ "javascripts/content_script.js", "javascripts/dragresize.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_end"
+               }, {
+                  "all_frames": true,
+                  "js": [ "javascripts/save-content.js" ],
+                  "matches": [ "http://awesomescreenshot.com/save-local-flash/SaveToDisk.html" ],
+                  "run_at": "document_end"
+               }, {
+                  "js": [ "oauth2/oauth2_inject.js" ],
+                  "matches": [ "http://www.google.com/robots.txt*" ],
+                  "run_at": "document_start"
+               } ],
+               "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+               "current_locale": "en_US",
+               "default_locale": "en",
+               "description": "Capture the whole page or any portion, annotate it with rectangles, circles, arrows, lines and text, blur sensitive info, one-click upload to share. Support PNG and shortcuts.",
+               "icons": {
+                  "128": "images/icon128.png",
+                  "16": "images/icon16.png",
+                  "32": "images/icon32.png",
+                  "48": "images/icon48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6o75JBFQSfnB7VYBgtp04P+emAK6cQjz/TLC5hhkju0PNfvO3YMVIW3sLveHBJf5/ijkinospD0HyLPUunaOkg/QLKiYO3mXHu+O0sufLa5Ja12goPERVHh0veITsBsZUpk0FySsxiwCFbDTslSFDR+MvGxFoJJkWZWyfCoelGwIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "6.0",
+               "name": "Awesome Screenshot: Capture & Annotate",
+               "options_page": "options.html",
+               "permissions": [ "tabs", "cookies", "\u003Call_urls\u003E", "https://accounts.google.com/o/oauth2/token" ],
+               "plugins": [ {
+                  "path": "plugins/screen_capture_64.so"
+               }, {
+                  "path": "plugins/screen_capture.so"
+               }, {
+                  "path": "plugins/screen_capture.dll"
+               }, {
+                  "path": "plugins/screen_captures.plugin"
+               } ],
+               "requirements": {
+                  "plugins": {
+                     "npapi": false
+                  }
+               },
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "3.4.4"
+            },
+            "path": "alelhddbbhepgpmgidjdcjakblofbmce/3.4.4_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "alfahpoknocfdebmiclonikapcnljlob": {
+            "blacklist": true
+         },
+         "aljdncnajablgppdcfbehhmidlmbndda": {
+            "blacklist": true
+         },
+         "amfgdngndpfldigimkcindjalokfnmem": {
+            "blacklist": true
+         },
+         "amoobcjlpgloocplpikcldcpjjdnoeii": {
+            "blacklist": true
+         },
+         "anmjpohfnlopdfaojooicpemopnliimn": {
+            "blacklist": true
+         },
+         "aofechiiopolnegcjcddgedjabmkemhf": {
+            "blacklist": true
+         },
+         "aojicjocmihiopalnhjikigammkhgckb": {
+            "blacklist": true
+         },
+         "aokenbhllkgpooaacldiamnpmmgkjblo": {
+            "blacklist": true
+         },
+         "apdebchnkegjokdjplmfmepcdgneemhe": {
+            "blacklist": true
+         },
+         "apdmgffkfhjfeejmbjidennfjdkmmmbl": {
+            "blacklist": true
+         },
+         "aphncaagnlabkeipnbbicmcahnamibgb": {
+            "blacklist": true
+         },
+         "bccdgfmbcjkfkinkkagaflgdaoaamogo": {
+            "blacklist": true
+         },
+         "bcddmcejgphfgofbpoocakaeapfomlek": {
+            "blacklist": true
+         },
+         "bckhfnghfdponbaldednpnljadgfjecj": {
+            "blacklist": true
+         },
+         "bdgijcibmhjjccgbdohofncdjcophknj": {
+            "blacklist": true
+         },
+         "benclngoadbppljglhphhnfknoppmjoa": {
+            "blacklist": true
+         },
+         "bhdkpmneahdelgdgfhddianklldfoell": {
+            "blacklist": true
+         },
+         "bhkdpodceenlocjmmgodpbbpkafkpljc": {
+            "blacklist": true
+         },
+         "bhmahaiplmeodpakkcchmolaihbhkpdl": {
+            "blacklist": true
+         },
+         "biiponhbbifajapmbggbgaepiedinifm": {
+            "blacklist": true
+         },
+         "bilgncckogfgfipdlejkffnbkgjkmflh": {
+            "blacklist": true
+         },
+         "bioeopenmokdgbekbgpgnacecjmpckbb": {
+            "blacklist": true
+         },
+         "bjihddggcgnblgojnmhpnngonofbnkaj": {
+            "blacklist": true
+         },
+         "bkhafliomebnpccanacmlfaemgfiofko": {
+            "blacklist": true
+         },
+         "bkkchglolnigbfncnbnnbhhempjkdpkf": {
+            "blacklist": true
+         },
+         "bkplhcigeaiiliajeehehiikokgocbhb": {
+            "blacklist": true
+         },
+         "bldgnkigdcpgnbfehgbameigoohecdfl": {
+            "blacklist": true
+         },
+         "bmjhmeeepkkbmjdajachipfgihmpokpd": {
+            "blacklist": true
+         },
+         "bndahdijlcnncjbpammoedeapmlobllc": {
+            "blacklist": true
+         },
+         "bnffnggkphadlnoopcoakdnkellnifjp": {
+            "blacklist": true
+         },
+         "boaoagnmpennjoigkkmnjhecapibhfko": {
+            "blacklist": true
+         },
+         "boclfockfmgcppbajihcgajhpggaakgl": {
+            "blacklist": true
+         },
+         "bokkificjhapflinbdejegngffgkcgfe": {
+            "blacklist": true
+         },
+         "bpfadpmhabiajakhgnaipdplkcjaklnj": {
+            "blacklist": true
+         },
+         "canhmdgddepdjikkjhpmhcfdkkjdbppi": {
+            "blacklist": true
+         },
+         "caphkimknlmnhpjoneddiaakmcaajagb": {
+            "blacklist": true
+         },
+         "cbbbpmlnlpnjojeplppgeilanlihoojg": {
+            "blacklist": true
+         },
+         "cbbjhegipokkofhhicbckicchjpcpeni": {
+            "blacklist": true
+         },
+         "cbhhdkemlehgodemcigfabmcdnohhhef": {
+            "blacklist": true
+         },
+         "cbjlfaogacjpkplebfbijaakaifoflno": {
+            "blacklist": true
+         },
+         "cconecmbohgadkjghlfbchmjpgbobkaf": {
+            "blacklist": true
+         },
+         "cdogaeccgljmkecjmoedambgiekkllij": {
+            "blacklist": true
+         },
+         "cedclbokcakighlpbnbhfjffdjeihfdp": {
+            "blacklist": true
+         },
+         "cekdjgnecpoooikhmceokdhojckkkhmh": {
+            "blacklist": true
+         },
+         "cepfogmgfkddnllaopgknbdfkceejmhk": {
+            "blacklist": true
+         },
+         "cfbdodejdeejbkffcmiaknpmojjeibpn": {
+            "blacklist": true
+         },
+         "cfdedhfmaeiheeklgodcmcgfpedooocj": {
+            "blacklist": true
+         },
+         "cfnfobbpdaccoljfahpmfjdmbfmmkeof": {
+            "blacklist": true
+         },
+         "cfogpbanfnocakdckmgafapdlmclpiln": {
+            "blacklist": true
+         },
+         "cgnegjfmdfenjojhjffejinpnpoglmlh": {
+            "blacklist": true
+         },
+         "cgnkbnaiipmfbakpmhllalggoepniemh": {
+            "blacklist": true
+         },
+         "chhniecmnighakmlnhkifeogjddhoajn": {
+            "blacklist": true
+         },
+         "chlplighidmhpgmidehfmjfdlahakjog": {
+            "blacklist": true
+         },
+         "cidnoinjdbalndcidafahfnoeehfblfl": {
+            "blacklist": true
+         },
+         "cihlkpohodpdkdnfalhdkhhlhmhffmbe": {
+            "blacklist": true
+         },
+         "cjhklhdjonhcohlacgggcbklpnldleck": {
+            "blacklist": true
+         },
+         "cjohbbapkbkkhpohinffggbphnhoblea": {
+            "blacklist": true
+         },
+         "ckckpgefkpjfopjppjfcikppehdhceah": {
+            "blacklist": true
+         },
+         "ckphhghhpjbfddcgkpfbelfeojcciglo": {
+            "blacklist": true
+         },
+         "clapnamcglekekmamicmbahkghdcjaeh": {
+            "blacklist": true
+         },
+         "clfhanhcjmgjnbpjfopldmnabimhmcmp": {
+            "blacklist": true
+         },
+         "cmjphjljejnfgdbkdgdlclaabimpknna": {
+            "blacklist": true
+         },
+         "cmlokmkdolieoaoddlfhaidnlmiadhik": {
+            "blacklist": true
+         },
+         "cmnfphnmpedeolmelllmgkghmjcnlajp": {
+            "blacklist": true
+         },
+         "cnimdnlablahacgompaahbgohcokcclp": {
+            "blacklist": true
+         },
+         "cniodhfhdiidogekcjkplecimemfocpn": {
+            "blacklist": true
+         },
+         "coajchbkdbfhmhbgcjepiofllfjjcpfp": {
+            "blacklist": true
+         },
+         "copjbedljgpkaakkmbhgkpoaadeahido": {
+            "blacklist": true
+         },
+         "cpiiakoibaohkfoaijaigdnocfolnmll": {
+            "blacklist": true
+         },
+         "dadcalgappognjbjpalfophhcfakoeac": {
+            "blacklist": true
+         },
+         "danapgfidmepmcfbjjacceiaiiioieio": {
+            "blacklist": true
+         },
+         "dbanhghadfmjndnjmmejdgfdmgidlbpm": {
+            "blacklist": true
+         },
+         "dbiblcmlcgdjjbdpbmbcpineegngkiip": {
+            "blacklist": true
+         },
+         "dbmdicehacbaohlockjgdglcobimmjkh": {
+            "blacklist": true
+         },
+         "dcfefnkefopibnlcjhjcfegckhanekld": {
+            "blacklist": true
+         },
+         "dcpjokbfgfnbaekphjgehhjaokkcifbj": {
+            "blacklist": true
+         },
+         "dejippphmhbpgckbhdidnjmdcpfccbaj": {
+            "blacklist": true
+         },
+         "deocpjmfifplhepinpkmpinpnbiemfje": {
+            "blacklist": true
+         },
+         "deonbedlmakdddidplniclflladdjoep": {
+            "blacklist": true
+         },
+         "dfafokiagoiocidlpglcanjkcdbdnioi": {
+            "blacklist": true
+         },
+         "dfjhgoeofgmepmcngkhnaiphbhdbonhp": {
+            "blacklist": true
+         },
+         "dfoegfajplmijblljfancdapbdaopebb": {
+            "blacklist": true
+         },
+         "dgaehaeahdegbdlenicbmkbakhdgoeml": {
+            "blacklist": true
+         },
+         "dgcfmgdfbfbgcpbendbhbkfjppboebed": {
+            "blacklist": true
+         },
+         "dgkemngdheppgohkjjelnkjmdeimmfml": {
+            "blacklist": true
+         },
+         "dhclobcklknojliojkkclgjndemadnig": {
+            "blacklist": true
+         },
+         "dhdepfaagokllfmhfbcfmocaeigmoebo": {
+            "blacklist": true
+         },
+         "dhmghpedmigfknfpolfmkihcaeiccjgf": {
+            "blacklist": true
+         },
+         "dibljdngacjhpccjckmlmeklpgjeinjd": {
+            "blacklist": true
+         },
+         "digmihafmlfkgdbjjdgbcojghcgcoeoa": {
+            "blacklist": true
+         },
+         "diinokaoicgobepmadnmedlhdfnpehcj": {
+            "blacklist": true
+         },
+         "dinhjcapnfbffhiihdlnbdfjdjjfhcbk": {
+            "blacklist": true
+         },
+         "djjddbeligongockkakmbfdngdjdnagb": {
+            "blacklist": true
+         },
+         "djnahdkbfgnhgpakidinfonfcjbagkgp": {
+            "blacklist": true
+         },
+         "djpnjilhooodipllnjedjeiabkboakok": {
+            "blacklist": true
+         },
+         "dkhkecikbdfpoiopnnpoeglbdphgflmf": {
+            "blacklist": true
+         },
+         "dkpdmjefniplpkalcgnainfmmclllpnn": {
+            "blacklist": true
+         },
+         "dlobhinihbmedmheccecfnkcadpehmbf": {
+            "blacklist": true
+         },
+         "dlopielgodpjhkbapdlbbicpiefpaack": {
+            "blacklist": true
+         },
+         "dmabikjmolgegjajdhmgpmgffajlmmkb": {
+            "blacklist": true
+         },
+         "dmhgenmamfphbclmhdgmffajkfommkom": {
+            "blacklist": true
+         },
+         "dmhjdbigobajgnfoabodjgmcdgoeoljm": {
+            "blacklist": true
+         },
+         "dmkdhgkknhnfpdjeicefnpmhcpbimden": {
+            "blacklist": true
+         },
+         "dnemhlkdpajbbniphgkgceplmnkfnhfo": {
+            "blacklist": true
+         },
+         "doneghboglgnflpdicnkaojmmljgejkj": {
+            "blacklist": true
+         },
+         "dpaphgcjeeochbiafgbochohgmpcmlbj": {
+            "blacklist": true
+         },
+         "dpcdiabehkofdddfhdmkgkndjilfoppd": {
+            "blacklist": true
+         },
+         "dpfanoongnoofcdhgijjdjmbnfekdejj": {
+            "blacklist": true
+         },
+         "dpgenihgggagjjggfocjceeobjkadcbc": {
+            "blacklist": true
+         },
+         "dpmloehicimdjkibmobhmpgdndgbcced": {
+            "blacklist": true
+         },
+         "eagmciolnojfofmggkffclbonhleeank": {
+            "blacklist": true
+         },
+         "ebdcdchjcndpjhehacedepnggfdbfkpn": {
+            "blacklist": true
+         },
+         "ebhdpnhjbfkchfamjcpebpeddhhicnab": {
+            "blacklist": true
+         },
+         "echjhfifjidfhoappglfmoffcpmpkigb": {
+            "blacklist": true
+         },
+         "echngajnlpjeacbanjejlhcajjfoedcc": {
+            "blacklist": true
+         },
+         "ecinfbhalenfhdhnljmkglajfjjfehoj": {
+            "blacklist": true
+         },
+         "edmnikahahfkfilbbjbdoiabnghbkmjc": {
+            "blacklist": true
+         },
+         "eemcgdkfndhakfknompkggombfjjjeno": {
+            "active_permissions": {
+               "api": [ "bookmarks", "bookmarkManagerPrivate", "metricsPrivate", "systemPrivate", "tabs" ],
+               "explicit_host": [ "chrome://favicon/*", "chrome://resources/*" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13010583615846293",
+            "location": 5,
+            "manifest": {
+               "chrome_url_overrides": {
+                  "bookmarks": "main.html"
+               },
+               "content_security_policy": "object-src 'none'; script-src chrome://resources 'self'",
+               "description": "Bookmark Manager",
+               "incognito": "split",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQcByy+eN9jzazWF/DPn7NW47sW7lgmpk6eKc0BQM18q8hvEM3zNm2n7HkJv/R6fU+X5mtqkDuKvq5skF6qqUF4oEyaleWDFhd1xFwV7JV+/DU7bZ00w2+6gzqsabkerFpoP33ZRIw7OviJenP0c0uWqDWF8EGSyMhB3txqhOtiQIDAQAB",
+               "manifest_version": 2,
+               "name": "Bookmark Manager",
+               "permissions": [ "bookmarks", "bookmarkManagerPrivate", "metricsPrivate", "systemPrivate", "tabs", "chrome://favicon/", "chrome://resources/" ],
+               "version": "0.1"
+            },
+            "path": "/usr/lib/chromium/resources/bookmark_manager",
+            "was_installed_by_default": false
+         },
+         "efbeabpbbkahnnjalakldjfhljboclkf": {
+            "blacklist": true
+         },
+         "efcnjdcimjmggfdkahncpoikhehcfgnh": {
+            "blacklist": true
+         },
+         "efhjelcghjkfigiagdfbfilndaffpmdj": {
+            "blacklist": true
+         },
+         "efnaljpgehfilpmkhobibbjceeeondmn": {
+            "blacklist": true
+         },
+         "efonemhbokfedckpfpohpmcamfihnnlm": {
+            "blacklist": true
+         },
+         "egljdhfnbjahogjahnigfnbpidlmdagi": {
+            "blacklist": true
+         },
+         "ehgoiaffgjoinpkllmmnikghgpghnabc": {
+            "blacklist": true
+         },
+         "ehmjnpjodmgeocfphkjjnheiheehcoid": {
+            "blacklist": true
+         },
+         "ehomcoocpagnlcakcbecdaknmacmedld": {
+            "blacklist": true
+         },
+         "eiflkkehgogioennialfbilppmegcpoa": {
+            "blacklist": true
+         },
+         "eihjeehdobnpkonebmpanonopghepfle": {
+            "blacklist": true
+         },
+         "eijbdinddjecmebnlienfoijpjjobkjh": {
+            "blacklist": true
+         },
+         "einmhcleeonenkkldjlmhhcmgolhblhh": {
+            "blacklist": true
+         },
+         "ejakhnjbomgngodiidgbkapjgbdckhnh": {
+            "blacklist": true
+         },
+         "ejijgghlncnaphklndknkbkclebfboca": {
+            "blacklist": true
+         },
+         "ejlekamipdcfcfpgfepjmklllbpeecaj": {
+            "blacklist": true
+         },
+         "ekikoahmboikmmclhnijlmldpmleahnh": {
+            "blacklist": true
+         },
+         "elcaigjcaijbfpjngaekbblphmfjdhfo": {
+            "blacklist": true
+         },
+         "emcdpbapjmnjgoannclkongdfboaabho": {
+            "blacklist": true
+         },
+         "eofejpelggimkodeojpeojnbijgiglgh": {
+            "blacklist": true
+         },
+         "eopmhecjnginkckggjmhombbopmkjpam": {
+            "blacklist": true
+         },
+         "epbmnbdplhcomkedpjfceakddnbgfjmf": {
+            "blacklist": true
+         },
+         "fafoohpbicgbcejffcplajonhhooddle": {
+            "blacklist": true
+         },
+         "fakdahljemjliginkgdehfoocmjgloam": {
+            "blacklist": true
+         },
+         "fbhiehmngojjcmljddjmgpmcockbccmo": {
+            "blacklist": true
+         },
+         "fbjjhbijaiopkcdolheliknnjlkaekeb": {
+            "blacklist": true
+         },
+         "fbmgoajoadbjhoachcdiplofcblaihdc": {
+            "blacklist": true
+         },
+         "fbmimoidopbghbcmdmpkjaffffmcbmbg": {
+            "blacklist": true
+         },
+         "fcfepemfihgibdacjlnlecebknaaepmj": {
+            "blacklist": true
+         },
+         "fcijaeofmfihkldhkofkjoibdoeoflha": {
+            "blacklist": true
+         },
+         "fclheclkknbgfndeahkfdomollhmfkcn": {
+            "blacklist": true
+         },
+         "febmhchodibcbchcofonaamfglbjhggg": {
+            "blacklist": true
+         },
+         "fekjidlkjnecepnlmdmjohmgpkdlbegi": {
+            "blacklist": true
+         },
+         "ffgfbfakpcnngelphjnppokmoicdollk": {
+            "blacklist": true
+         },
+         "fhlkffpjoajppmhcakbkjndbjfljccpi": {
+            "blacklist": true
+         },
+         "fhpclkemjlhmbfbjakbmdjihocinkmim": {
+            "blacklist": true
+         },
+         "fiapkdjniadkodmdibdnchoifkpfoiid": {
+            "blacklist": true
+         },
+         "fibgploapkhokkbncddlkcmbmiengcfp": {
+            "blacklist": true
+         },
+         "fihepkmlkmciffbhijldnpmifhbkiinp": {
+            "blacklist": true
+         },
+         "fiiblakkkkgeljngobmpeljjapemenhi": {
+            "blacklist": true
+         },
+         "fjhfnfakmfcejgmfkmnapemgblmehppf": {
+            "blacklist": true
+         },
+         "fjjeecfjmgfnleghoellhldedkaocjfc": {
+            "blacklist": true
+         },
+         "fjpofaghniailakahnhkjjfbfonpfglo": {
+            "blacklist": true
+         },
+         "flalbhkmnijcnpialgakicllnabckmhi": {
+            "blacklist": true
+         },
+         "fleljamdchegbjeiipbnmiebnhgheeld": {
+            "blacklist": true
+         },
+         "flmmgcfcpbfddenepkfmgfpbaceolcoe": {
+            "blacklist": true
+         },
+         "fmcccidacjgnfiafddkngmeolkoiihil": {
+            "blacklist": true
+         },
+         "fmonlemffgbabjifjfaoamdflijecdbk": {
+            "blacklist": true
+         },
+         "fngolbdmkneakeaoiieafkilnogbocda": {
+            "blacklist": true
+         },
+         "fnhcgnmfccojojojacgeiaaeacefdohb": {
+            "blacklist": true
+         },
+         "fnihpenllbnplcglabekelhhblcdndbb": {
+            "blacklist": true
+         },
+         "fnkaadkanmfgpfbmdcllhjdgmdbgljpi": {
+            "blacklist": true
+         },
+         "fnnmbghphdnmmjdapccfobgjemjadeli": {
+            "blacklist": true
+         },
+         "fnoadkjdjfgafomgmablhmffooijcfbn": {
+            "blacklist": true
+         },
+         "foenbafkkmajnmfnlcmejonkfaipdmme": {
+            "blacklist": true
+         },
+         "folhciaicehdnoalhbkbgkakfcockopc": {
+            "blacklist": true
+         },
+         "fomljmklmcefndkgpakgifbiiidgbjej": {
+            "blacklist": true
+         },
+         "fommcgokigkhmnhlhlkckfjhefnmfohd": {
+            "blacklist": true
+         },
+         "fopgndklnkecillfbdmfknhmadmenikm": {
+            "blacklist": true
+         },
+         "fpbippbofbmgmbojjmgfcifpmdaelcmd": {
+            "blacklist": true
+         },
+         "fpbkafpphnhlpakobppekmkebmbhkoco": {
+            "blacklist": true
+         },
+         "fpjdackpllilinpkgmhkpidkanmccblc": {
+            "blacklist": true
+         },
+         "fpmajanjndhgpifbcbnklbiehgnpkgmf": {
+            "blacklist": true
+         },
+         "fpoajjnnpmledpmohlgpgbmlhbgkgahg": {
+            "blacklist": true
+         },
+         "fpokembamndopkflopmplkklbdngnknd": {
+            "blacklist": true
+         },
+         "gagalgomhifgcmeciklindhpaihmecgi": {
+            "blacklist": true
+         },
+         "gaicmfjflflabagobdiodejfpjikheeo": {
+            "blacklist": true
+         },
+         "gandihaiobadcggbfkhpbkocmiemjlnf": {
+            "blacklist": true
+         },
+         "gbenikfjhilhpgagllmfgggdjaflbmbi": {
+            "blacklist": true
+         },
+         "gchbiabnbdikkgfhnkclecjncojnkmhb": {
+            "blacklist": true
+         },
+         "gdggdkkjecogagaffaemnbfmllcoihjp": {
+            "blacklist": true
+         },
+         "gdlgbpbmiiagaikjbednkikinokbkbcb": {
+            "blacklist": true
+         },
+         "geggofhlfbcmanadhknllmlajiafopoh": {
+            "blacklist": true
+         },
+         "gekkhpjigmckhgmgngadbeknekgpgolb": {
+            "blacklist": true
+         },
+         "gfjfhihpkmehdmblhfaikkipeplpdcla": {
+            "blacklist": true
+         },
+         "gfmmoiakbmdohkgeoekiokjgljcminig": {
+            "blacklist": true
+         },
+         "ggkpicnfnljflddbdoeeaajjgepapcbf": {
+            "blacklist": true
+         },
+         "ghgphbmpcfgkfneodjpbdanmdoemklio": {
+            "blacklist": true
+         },
+         "ghmaokcegalalefnhlfcnjhnpdbanjkj": {
+            "blacklist": true
+         },
+         "gifglngcdbggmlgkcombebegdaoknkho": {
+            "blacklist": true
+         },
+         "gjkbghdignnlcknknflbigpammebiolo": {
+            "blacklist": true
+         },
+         "gjmhdmobkhfhkpfmfegnkkimlamjdldi": {
+            "blacklist": true
+         },
+         "gkcfodgjdcijjlliehfhgohlkemcbobl": {
+            "blacklist": true
+         },
+         "gkhbgnodbilglgholifcjdblbgdaieah": {
+            "blacklist": true
+         },
+         "gkjeccpmibljcfpfapfljciimedljpnm": {
+            "blacklist": true
+         },
+         "gkjmgdpdndoaiholejnmdbbpdaafahmm": {
+            "blacklist": true
+         },
+         "gklphmokmaaepjgandocpneomjlidjag": {
+            "blacklist": true
+         },
+         "glhhlafadlhkgbklgbjnmblfhnkfknbm": {
+            "blacklist": true
+         },
+         "gmghjgfdialcnhadahmjefeflgnhcjeb": {
+            "blacklist": true
+         },
+         "gnapdhmknipknfmhhnhdmhakdfhgeing": {
+            "blacklist": true
+         },
+         "gncfgndgeoddelbfhlndhljnecoednaa": {
+            "blacklist": true
+         },
+         "gngfmjidncdccdlfjcjbnngeaaclfgpl": {
+            "blacklist": true
+         },
+         "gngmkbiihflpghldjnbpemaicedhdddk": {
+            "blacklist": true
+         },
+         "gobjcjhhebpjbmjdgmejhebbleadnceo": {
+            "blacklist": true
+         },
+         "goedioiidkokkbobdnopnlnaaalniegm": {
+            "blacklist": true
+         },
+         "gomkbnfeifchddfokcicibjnlgbolhol": {
+            "blacklist": true
+         },
+         "gompblemgafijijmlgbaepcijfgfgljf": {
+            "blacklist": true
+         },
+         "gpdcodmabpgmncbkhpipakhehepmpopk": {
+            "blacklist": true
+         },
+         "gpgehbjbkfhngdlfpfeokjgbkmmokjhe": {
+            "blacklist": true
+         },
+         "gplgjmecjpbfcdikpbicknafcnfcidek": {
+            "blacklist": true
+         },
+         "hbaajkahagmlkdekmbdabikbopdgpaac": {
+            "blacklist": true
+         },
+         "hbdhabpmbbanaopgkbaondabkkepjfaf": {
+            "blacklist": true
+         },
+         "hbmlheccjkodhfejcmblndjodllmnlnl": {
+            "blacklist": true
+         },
+         "hcapokajkngndbglnfglpfdpoeidmpha": {
+            "blacklist": true
+         },
+         "hcpndbchnlgojmnijaldkicigmihmdca": {
+            "blacklist": true
+         },
+         "hdijkiondgomjpehfhopomicjbiodmcm": {
+            "blacklist": true
+         },
+         "hdnbmmfjbblajkjkcaeofolgfnljpnim": {
+            "blacklist": true
+         },
+         "hecijapnccjhonbmacmkmffooodfokoo": {
+            "blacklist": true
+         },
+         "hefmoncdemhjembgbnkgglhlookbipdc": {
+            "blacklist": true
+         },
+         "hfcgbiofoebieldldghfocjfnnajmpej": {
+            "blacklist": true
+         },
+         "hfjpjodbolkmheaehcnmfhjakjileoof": {
+            "blacklist": true
+         },
+         "hfpfbhnmbbigpmoodjemilggabklpopj": {
+            "blacklist": true
+         },
+         "hgbaomphocgmdpmiohjclchaaljpaelp": {
+            "blacklist": true
+         },
+         "hgboiaecclcbjphldpbgfgggcbihmnai": {
+            "blacklist": true
+         },
+         "hgjgaeknhmidehalnmokomhpfhbfmpcm": {
+            "blacklist": true
+         },
+         "hhbihfbjoifhhebcnchglobmkmapgjkm": {
+            "blacklist": true
+         },
+         "hhfffemhgkginfafaoapljdllodppana": {
+            "blacklist": true
+         },
+         "hhfiljkpjapjjphcocclhhaldpfkkjbi": {
+            "blacklist": true
+         },
+         "hhjmkijkgojfifipdgmiemghfikbohcm": {
+            "blacklist": true
+         },
+         "hhlgbfcfbkhlmajakkcjippgpcmejkko": {
+            "blacklist": true
+         },
+         "hhommgjjeekpmpcbdmfnhpchijdkgaei": {
+            "blacklist": true
+         },
+         "hilncbjbdpnfepdidfchmdclhpnlegpj": {
+            "blacklist": true
+         },
+         "himgjpdejpikenoibmolgmfblolpahno": {
+            "blacklist": true
+         },
+         "hjkhligcnpfjhjlapmejaiaiigibofif": {
+            "blacklist": true
+         },
+         "hjnigaibahdeadcdnpnommdehajodlhc": {
+            "blacklist": true
+         },
+         "hkbgccpdcpbdckohbknjlamamelcnlki": {
+            "blacklist": true
+         },
+         "hkjcejgfmaanpncnpoidgbhoikcaeepd": {
+            "blacklist": true
+         },
+         "hkjfdgjkgpbbdmadbglcgljjjddkcdha": {
+            "blacklist": true
+         },
+         "hmmoglffhpmacaacfbbmbbkcbdkjphnc": {
+            "blacklist": true
+         },
+         "hnbcdmfeoldeppcbnnjmjkdofohaljbn": {
+            "blacklist": true
+         },
+         "hncomkjbbkchfjelocejkbbflmjhlhfp": {
+            "blacklist": true
+         },
+         "hnipgljcblpgnnojcfldehpeknhakbgj": {
+            "blacklist": true
+         },
+         "hnkcpoijaeegompjgbjjhkdmljldaccg": {
+            "blacklist": true
+         },
+         "hnnebfeppcbhhbhiifeaajgcjnkljlld": {
+            "blacklist": true
+         },
+         "hnonhhpgjnjcjfbkjdpfbkfpaodcmncb": {
+            "blacklist": true
+         },
+         "hnpgphegniamplngojaffllhjahkgbfl": {
+            "blacklist": true
+         },
+         "hpcdoodjfcmpcpkeendjnjkeinimhkih": {
+            "blacklist": true
+         },
+         "hphibigbodkkohoglgfkddblldpfohjl": {
+            "blacklist": true
+         },
+         "hpibmhghjndideebpackbdlpncgkcppp": {
+            "blacklist": true
+         },
+         "iablioliielnhdianpbiijaoncbmfend": {
+            "blacklist": true
+         },
+         "ibnhidklhjoopebonemhliklfbhndjjd": {
+            "blacklist": true
+         },
+         "iccblehkchfmjgfafjcpjlkjcponhdhl": {
+            "blacklist": true
+         },
+         "icihfeaofpcfehanhbnjigdlpfahjlee": {
+            "blacklist": true
+         },
+         "idbdlnkdnaodonmgnimcfelpngbmcpjk": {
+            "blacklist": true
+         },
+         "iedogbkombgmapifenoojnmpcnjighfm": {
+            "blacklist": true
+         },
+         "iemfpgbdjfoihicbocpbjppipdbfimeh": {
+            "blacklist": true
+         },
+         "ifbkndkaolfbjjhnnhfmkbkoclpdkpli": {
+            "blacklist": true
+         },
+         "ifeijfpkjckedpclgncedmgdiaoeahmk": {
+            "blacklist": true
+         },
+         "igaajdmlejbjcbmpmnigopikfdaccdcm": {
+            "blacklist": true
+         },
+         "igbaoknfddliiaoimhehfbkfekpmmfll": {
+            "blacklist": true
+         },
+         "igghanohiioehififjoalfkdoicafjof": {
+            "blacklist": true
+         },
+         "iggjepemmdkieakihpomccndhdfcljdp": {
+            "blacklist": true
+         },
+         "igjhgaoajaccjllfkfffboldnmncmhoh": {
+            "blacklist": true
+         },
+         "igkdgkdiiolilocklmiolkpoohacojop": {
+            "blacklist": true
+         },
+         "ihnembcpodnfgkafmiojebccomjekopm": {
+            "blacklist": true
+         },
+         "iiiinekimabooeihccihfopoadcaaphn": {
+            "blacklist": true
+         },
+         "ijecjbcgpblkacpijljpaienknanaloa": {
+            "blacklist": true
+         },
+         "ijenlpgidnapbndonoinbkhekgjonojg": {
+            "blacklist": true
+         },
+         "ijjmbbddenkbenbcfldgghhjgjmcnioo": {
+            "blacklist": true
+         },
+         "ilhjicgcglhjigdehkcehjdokmkahbjl": {
+            "blacklist": true
+         },
+         "iljfgjkppapinhcgonhjnipfppfmfedh": {
+            "blacklist": true
+         },
+         "ilmknaabackgdbnkgbihgpgiopnlkjek": {
+            "blacklist": true
+         },
+         "imfbomjbodpfgfhfahlgkkcllmhbelhk": {
+            "blacklist": true
+         },
+         "imkffpjpdngdkpgadcmnlkhhmhdocijn": {
+            "blacklist": true
+         },
+         "inbhlfpapeikbbgpfionabkigakepbbm": {
+            "blacklist": true
+         },
+         "indfhnliadamglhalanplbajgenpjdml": {
+            "blacklist": true
+         },
+         "iobnpmeeecphddicmhhmdjbnlbdhjlne": {
+            "blacklist": true
+         },
+         "iomejadoamfilglofmeaffghddcgapmf": {
+            "blacklist": true
+         },
+         "jabpdgllijbnknhkgjideeajfofafckp": {
+            "blacklist": true
+         },
+         "jaejgaoiipdjjlbnapngknalafalbkej": {
+            "blacklist": true
+         },
+         "jafnimahlamccccjbkhjjpeiipiedpik": {
+            "blacklist": true
+         },
+         "janhdpmhnighonkkbkdpnljcoenpfkbh": {
+            "blacklist": true
+         },
+         "jaoiiahdoamhobamdkmcmielddmnelko": {
+            "blacklist": true
+         },
+         "jbfebbkjjmkcoldeaeelhpconkmgjhbg": {
+            "blacklist": true
+         },
+         "jbmbiepnidbnhbbfdbgioomdkgnbcacj": {
+            "blacklist": true
+         },
+         "jbnafcjbcfgejacaanogofkkehcomamp": {
+            "blacklist": true
+         },
+         "jcmipejepoimfflnoapdmkdephgjinck": {
+            "blacklist": true
+         },
+         "jddbdddmbfencninofcgnodekclofpaj": {
+            "blacklist": true
+         },
+         "jdiakcmbpmcnniggjcmcjknnklpdlogc": {
+            "blacklist": true
+         },
+         "jeehjhnmgohgpfpjneglogiholalkeip": {
+            "blacklist": true
+         },
+         "jfalnphfjdoalcdhlnhdpekbmmopkgkj": {
+            "blacklist": true
+         },
+         "jfhmafmjfdblceidmfdmoihamolaaeco": {
+            "blacklist": true
+         },
+         "jfjagidcpadkoaonbogmbgfimmnefeie": {
+            "blacklist": true
+         },
+         "jgdkappiifgomhgikcjbanhnmlekpeje": {
+            "blacklist": true
+         },
+         "jgmpapdckakiohhebmeoemejibommimi": {
+            "blacklist": true
+         },
+         "jgoljhcbgajhbhnchplgjdkknendhjnn": {
+            "blacklist": true
+         },
+         "jhhabiomopkibeecgngiggmopkeofacl": {
+            "blacklist": true
+         },
+         "jihmekmccilkocefjpejdebpapohlhjb": {
+            "blacklist": true
+         },
+         "jiiccolbjkhpgockodneljpejdeaaodf": {
+            "blacklist": true
+         },
+         "jindbcpkhnnnjgcjgmkjedbibibiojjf": {
+            "blacklist": true
+         },
+         "jiofcofpcbijcnlpekdkpmgjdppajbjb": {
+            "blacklist": true
+         },
+         "jjahldbngdicbnejidklgkienpkdcpba": {
+            "blacklist": true
+         },
+         "jjhackoobdibnnndjopfjldbjmohkpdk": {
+            "blacklist": true
+         },
+         "jjnkfllhcgkgnfbekpnmoikpfihpjfli": {
+            "blacklist": true
+         },
+         "jkihmglffmfjedfbpbpdbbimcodjbmdh": {
+            "blacklist": true
+         },
+         "jkkfmenldnihjkgnolhlakhaepomhoob": {
+            "blacklist": true
+         },
+         "jkmhalpofmlfeglboejbchpoijnkmcgh": {
+            "blacklist": true
+         },
+         "jljfnkmkkdkppfndippkedacgfkafped": {
+            "blacklist": true
+         },
+         "jmbkhogpjgjpfjhpdikloblkbkljkgao": {
+            "blacklist": true
+         },
+         "jmeanodbelbflfmnkfdjgpikmldgjjko": {
+            "blacklist": true
+         },
+         "jmifipgdcllamghkhdplfjffkciekbgo": {
+            "blacklist": true
+         },
+         "jnehbnhjkefckoljkcmjfgkkeejhipgi": {
+            "blacklist": true
+         },
+         "jokbafidjfknjbchmcakabjgdiiacgek": {
+            "blacklist": true
+         },
+         "jolgdmpdhloiienhblmiimamomhdphlk": {
+            "blacklist": true
+         },
+         "jpehgolpfgnknboibogccapmdcadjkbd": {
+            "blacklist": true
+         },
+         "jpeijjbllejgmokmahkeommcodahoobm": {
+            "blacklist": true
+         },
+         "jpgidahfcgiajlcbleeiaibpmmblcmnb": {
+            "blacklist": true
+         },
+         "jpiedgcdjigcoeagojmlokclbljokpon": {
+            "blacklist": true
+         },
+         "jpkdlckejfjidmplieobnhijmoiecbhl": {
+            "blacklist": true
+         },
+         "kbipembkfhbdmkkkfbigmohilmknjnof": {
+            "blacklist": true
+         },
+         "kbmkecfipofebpaikgifajmahdmadlnb": {
+            "blacklist": true
+         },
+         "kcanfkmhccbaheheaackijegkclkaeic": {
+            "blacklist": true
+         },
+         "kcfnnanmpghdnoompcfclakpacapnfbn": {
+            "blacklist": true
+         },
+         "kcgplbmkmfcpngilmhjmebdgkkpbdemp": {
+            "blacklist": true
+         },
+         "kcmnkpehkjhodoodchlmgnicaifckhdj": {
+            "blacklist": true
+         },
+         "kdchmeaiapjkejkcbeclgjklemecieeg": {
+            "blacklist": true
+         },
+         "kdcnnmifdmlmjffdgeieikcokcogpbej": {
+            "blacklist": true
+         },
+         "kdfahjokahcbmecgaandpobmgiiknagf": {
+            "blacklist": true
+         },
+         "kdicckonacionpoompfoopggkgimjpcb": {
+            "blacklist": true
+         },
+         "kdjhalklkkcmodeicjiaekcgifkcepaf": {
+            "blacklist": true
+         },
+         "kdpcgcpfnkolljkhgdbbgimplfkhakec": {
+            "blacklist": true
+         },
+         "keknhkokjnjhgpcofobpcbelddppeolp": {
+            "blacklist": true
+         },
+         "kelcbonmemlciepjdmfcifnhloeammhj": {
+            "blacklist": true
+         },
+         "kelljdoinjlkmkncffgadbebgpmlcang": {
+            "blacklist": true
+         },
+         "keoimpnicgbcjamfdgpcecihicnbmhej": {
+            "blacklist": true
+         },
+         "kffhenjbibjnbnjhlkcdlmpeccpaohio": {
+            "blacklist": true
+         },
+         "kfodnkhdfdgeaegehjjnkjkieloddelg": {
+            "blacklist": true
+         },
+         "kgbkdabomfdpfoibliicpmibceaoohgh": {
+            "blacklist": true
+         },
+         "kgbmmcjgkkecjcafigegjphkmkdpnggo": {
+            "blacklist": true
+         },
+         "kgdhnhadbnpeibkghaebmhmngobdafag": {
+            "blacklist": true
+         },
+         "kgdkcodealpfjolmiagcogfbgmaamegh": {
+            "blacklist": true
+         },
+         "kgdmldjagfciieddcnlhampgkajkpanc": {
+            "blacklist": true
+         },
+         "khgjomcpjblpoaipanicbfjfgcfbpegp": {
+            "blacklist": true
+         },
+         "kibgmcdcfmcglajcfbecilngejnfppjp": {
+            "blacklist": true
+         },
+         "kiipngoehgkgkackngaidmhmnchfbmio": {
+            "blacklist": true
+         },
+         "kincjchfokkeneeofpeefomkikfkiedl": {
+            "blacklist": true
+         },
+         "kinhljbhjmcmoddhdoodekeklmjapjff": {
+            "blacklist": true
+         },
+         "kkhejjmlcfbcleolhadhekjbcanoopna": {
+            "blacklist": true
+         },
+         "kkhomejdleoonmbdhcigkhkjcghngncf": {
+            "blacklist": true
+         },
+         "kkkeikdkpjenmoiicggnnodbkebafgpc": {
+            "blacklist": true
+         },
+         "kleaapgdkahaekcocmkbgfainbhihccj": {
+            "blacklist": true
+         },
+         "kljhmdlkclaglodecegamnpioaflmage": {
+            "blacklist": true
+         },
+         "kmlebjoghkhpapfhbdikannggmmffnco": {
+            "blacklist": true
+         },
+         "kojkdbedffnppdoalcfkkeelbhbklhgp": {
+            "blacklist": true
+         },
+         "kolbbghckjilleabphhgeggcgpfidofi": {
+            "blacklist": true
+         },
+         "kpbfifeiomkhocgkkffocfinoedcjebg": {
+            "blacklist": true
+         },
+         "laicaenbonaajhkmfhhbpiapobdieffm": {
+            "blacklist": true
+         },
+         "lambangeielkjcnmioccboaphdfcffib": {
+            "blacklist": true
+         },
+         "lbaddolhebpnhdcdkicpcflhnfamcemn": {
+            "blacklist": true
+         },
+         "lbcmmpmjjaockhkcofljpakjcbmjmgla": {
+            "blacklist": true
+         },
+         "lbficnmfealeidppcbgdcbemgfjodbkg": {
+            "blacklist": true
+         },
+         "lcbfjcekjncehfbcimlogajbekmoeblm": {
+            "blacklist": true
+         },
+         "lcccggoiffkhgfkefgbicjdgdnfpoihn": {
+            "blacklist": true
+         },
+         "lceaiepehinnomgijphkmjccbigkljkj": {
+            "blacklist": true
+         },
+         "lcfkojlnjnedeoepfemhdgkhiabkeadc": {
+            "blacklist": true
+         },
+         "lcmpleboacinanffcdgenhhbkboclkjb": {
+            "blacklist": true
+         },
+         "ldgfapfmnplpaohbbadnecegcpfkfall": {
+            "blacklist": true
+         },
+         "ldmoahefokhfelhpbgfjpelcdbahdofk": {
+            "blacklist": true
+         },
+         "leccghfplhenabeogpibljliijgapfgb": {
+            "blacklist": true
+         },
+         "lfechjkgjjijfjoandhakaghdeimjcod": {
+            "blacklist": true
+         },
+         "lfggokjjaanlfikbbapgnfemifmddalf": {
+            "blacklist": true
+         },
+         "lgalokbapphhklmilicdefmgbjkcmldf": {
+            "blacklist": true
+         },
+         "lgcnahanhlfpceencjmlehpfklokhojk": {
+            "blacklist": true
+         },
+         "lhajoamjgchgljkdjigcgmmcehjkagan": {
+            "blacklist": true
+         },
+         "lhgbajoidigcpmgbnnonllfkndhahmie": {
+            "blacklist": true
+         },
+         "likifpgnijjfbdegfepoalpamlgnfofi": {
+            "blacklist": true
+         },
+         "liomofjeffddiiccaolcnllbhnipbkhe": {
+            "blacklist": true
+         },
+         "ljcicfibknpmlcmcecddjlbgkejehhpa": {
+            "blacklist": true
+         },
+         "ljeihpebkahejeacdalhkhmckmggppif": {
+            "blacklist": true
+         },
+         "ljlppmpjdogefnanekncklkjgpnhpcpd": {
+            "blacklist": true
+         },
+         "ljmjoloiepllcndinchenhomcdcgbgef": {
+            "blacklist": true
+         },
+         "lkdimamelhbiijkiljlnedmhnnkkmlbl": {
+            "blacklist": true
+         },
+         "lkfdchejjogilmloogbbjlnlpbhgjfab": {
+            "blacklist": true
+         },
+         "lkhcbijhgfchgdmklonlobkfbcadbokg": {
+            "blacklist": true
+         },
+         "lljnngafekbnkpdfophmcdlbfebcbcld": {
+            "blacklist": true
+         },
+         "lmhdacagnmfmomeodbgmlghejdbmldge": {
+            "blacklist": true
+         },
+         "lnahlgmhpghkhmafjppdidhcoaomipfg": {
+            "blacklist": true
+         },
+         "lnbeebaenahmkbffnimghceldeeihfak": {
+            "blacklist": true
+         },
+         "lncjcfkpannmofmpgdfoonkniofdnaba": {
+            "blacklist": true
+         },
+         "lndempehphjoeimfchjflohpmhamiamf": {
+            "blacklist": true
+         },
+         "lnjgjionmhobdfdegbciceafphgemjnc": {
+            "blacklist": true
+         },
+         "lnlaeblencbjjjeaanegaldcjfekeled": {
+            "blacklist": true
+         },
+         "lodollblmkailkkdiijmoccefdfjohgk": {
+            "blacklist": true
+         },
+         "loggadfheaoeabmkgolecncpfdfioefa": {
+            "blacklist": true
+         },
+         "lojppnndedobolgfepahepphhloediji": {
+            "blacklist": true
+         },
+         "loldehkdjdncebfnncknlkdchjclifbn": {
+            "blacklist": true
+         },
+         "lookpbabilcplifjdeifacodednpacmk": {
+            "blacklist": true
+         },
+         "lpgiafapdmlapiokjnmpbbfkomiceoml": {
+            "blacklist": true
+         },
+         "lplmcpcnhpbffpcfiaddbeaplhhbengd": {
+            "blacklist": true
+         },
+         "maakimnachffhlgdhfomaejeeaikgjap": {
+            "blacklist": true
+         },
+         "mafccdbbhekjhemajjejkaidndokeena": {
+            "blacklist": true
+         },
+         "magllcifjcllaafcdplnajmobccbcdlo": {
+            "blacklist": true
+         },
+         "mamfageekafifnickhgkibkofcclfefe": {
+            "blacklist": true
+         },
+         "mandondadnlimicalgkbkaohmeopdojj": {
+            "blacklist": true
+         },
+         "mbifidpgmfiielflaipknojhpfcljmgo": {
+            "blacklist": true
+         },
+         "mbmdaiddhfoljplpdhohimgieioblfif": {
+            "blacklist": true
+         },
+         "mcbkimglepddodbiongpohpeidioafgk": {
+            "blacklist": true
+         },
+         "mcknnlhkkdbcppajgefagceglahcafjd": {
+            "blacklist": true
+         },
+         "mdiehnlecbjlppbpaaipmlnhhjgepfcg": {
+            "blacklist": true
+         },
+         "mdngbiejioalifclonjepjjfppmbgned": {
+            "blacklist": true
+         },
+         "megkcfpbmemnpkgadkoompnoajcolpni": {
+            "blacklist": true
+         },
+         "mfehgcgbbipciphmccgaenjidiccnmng": {
+            "active_permissions": {
+               "api": [ "cloudPrintPrivate" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13010583615847368",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://www.google.com/cloudprint"
+                  },
+                  "urls": [ "https://www.google.com/cloudprint/enable_chrome_connector" ]
+               },
+               "description": "Cloud Print",
+               "display_in_launcher": false,
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqOhnwk4+HXVfGyaNsAQdU/js1Na56diW08oF1MhZiwzSnJsEaeuMN9od9q9N4ZdK3o1xXOSARrYdE+syV7Dl31nf6qz3A6K+D5NHe6sSB9yvYlIiN37jdWdrfxxE0pRYEVYZNTe3bzq3NkcYJlOdt1UPcpJB+isXpAGUKUvt7EQIDAQAB",
+               "name": "Cloud Print",
+               "permissions": [ "cloudPrintPrivate" ],
+               "version": "0.1"
+            },
+            "path": "/usr/lib/chromium/resources/cloud_print",
+            "was_installed_by_default": false
+         },
+         "mfffdpnblflpobcnekhekiahepofaane": {
+            "blacklist": true
+         },
+         "mfgkkephjfnkggbmahehnjhdcmkioaff": {
+            "blacklist": true
+         },
+         "mfhfkclojmdocagbmecgcnlofppebebd": {
+            "blacklist": true
+         },
+         "mfncimdpmknolnnnccdmkpnpkaofonkc": {
+            "blacklist": true
+         },
+         "mfooalpniplhaaealemjpchkchmmgdko": {
+            "blacklist": true
+         },
+         "mgdgiplcofghdmpekdeeceolepakodcb": {
+            "blacklist": true
+         },
+         "mhbffdldpckobeihgebaamjalehefnia": {
+            "blacklist": true
+         },
+         "mhldlgmggplfkkjgpgjjpebflplpgekg": {
+            "blacklist": true
+         },
+         "mickhiflmjglhpdpfigpkpjiipfdlphj": {
+            "blacklist": true
+         },
+         "mikpklndmiopinkkmalgoophegfnmmfh": {
+            "blacklist": true
+         },
+         "mjalegijammcloleihdmooifidcjggjp": {
+            "blacklist": true
+         },
+         "mjgobkikdipfikmaoakdcdbicpioljgg": {
+            "blacklist": true
+         },
+         "mjhlngjakabhonjagnlimeicooahajpl": {
+            "blacklist": true
+         },
+         "mjolnadmlahbpepjaemohnkhpjkbhmef": {
+            "blacklist": true
+         },
+         "mknjbohhleiicbpagpgmhoaigbblmnic": {
+            "blacklist": true
+         },
+         "mkobblpffgbncfhijabakfafmkjdmmnm": {
+            "blacklist": true
+         },
+         "mlmegahemifabfmdnndafagnncfbnahn": {
+            "blacklist": true
+         },
+         "mlmmbepkgelpbenpobinockmiehdahai": {
+            "blacklist": true
+         },
+         "mlnndjkcclbekgoebkenkdgiggaomaed": {
+            "blacklist": true
+         },
+         "mlnoedbhndgbjcbeadjfnmjloejlgojk": {
+            "blacklist": true
+         },
+         "mmjodihhmnpkldljaifiajmlnpflfhpm": {
+            "blacklist": true
+         },
+         "mndoohjdoechinpkfbkolflbonciahfo": {
+            "blacklist": true
+         },
+         "mnhcgaghminpdabllkbkecahjfkdiabk": {
+            "blacklist": true
+         },
+         "mnichagcickblneeijmfnmoiakigmmhf": {
+            "blacklist": true
+         },
+         "mnllienogacopjnkmhgnniopjpgjpopp": {
+            "blacklist": true
+         },
+         "mogepbcllienegdibkfpmombhefhcoic": {
+            "blacklist": true
+         },
+         "mokdlfbphidpiopnlfejpcmadcbomckn": {
+            "blacklist": true
+         },
+         "mpcglemopeoeapmagdbeenepkdbajape": {
+            "blacklist": true
+         },
+         "mpgehpkneknbopplhmmkfijfiniddipf": {
+            "blacklist": true
+         },
+         "mplhbhmkccidaokcelbcbcmhhedebcng": {
+            "blacklist": true
+         },
+         "mplpabdbfbloeiboikmdbnggfnjbjmlh": {
+            "blacklist": true
+         },
+         "naopgnjebjeeedbbhcadkhkmeefmloho": {
+            "blacklist": true
+         },
+         "nbfcehkihbmpebblmfkihadebllgfmgl": {
+            "blacklist": true
+         },
+         "nbieffehfdniifkgdckbndjhojohbfjj": {
+            "blacklist": true
+         },
+         "nbjnehjmelkfjggedillcpjeelfnempb": {
+            "blacklist": true
+         },
+         "nckmikohoilfkcoahbjpbgbpegcjgngm": {
+            "blacklist": true
+         },
+         "ncpdanjmicnihdlijomcggnnekloephc": {
+            "blacklist": true
+         },
+         "ndhkiimgbjnendpcfbiadlifmangejoa": {
+            "blacklist": true
+         },
+         "ndiogongcmocdgjciemhagfhpjamehpe": {
+            "blacklist": true
+         },
+         "negkalblfongjbphdcbbhddlickhlamd": {
+            "blacklist": true
+         },
+         "nepfiodmbijheamafkiglonfkjebdjmf": {
+            "blacklist": true
+         },
+         "nfecfkjnlkbphobjbcnphimihniieehc": {
+            "blacklist": true
+         },
+         "nhbfbnmmdjkjahhfdeklgphihfodfgnb": {
+            "blacklist": true
+         },
+         "nhboiakpmibkbkbeehchlfkggmhphpnk": {
+            "blacklist": true
+         },
+         "nhkmojkfnknbbmhbnacjdlodokeophkl": {
+            "blacklist": true
+         },
+         "nhooocacdhkpbmoocdclodjlddcebfoe": {
+            "blacklist": true
+         },
+         "nibohffepnilngkecenfdgnokfhmnkod": {
+            "blacklist": true
+         },
+         "nidmbljkkcbdfklgdkklgjgmhejmbojn": {
+            "blacklist": true
+         },
+         "nidodbfomffkfabciljelkbdiabkeehe": {
+            "blacklist": true
+         },
+         "nifbebeekindefklojhchehidpikbjfc": {
+            "blacklist": true
+         },
+         "nihhbeikpchdddoillfdcdinnnnllmna": {
+            "blacklist": true
+         },
+         "nlefocohkhlgmjdhgkjgdodobmffjbod": {
+            "blacklist": true
+         },
+         "nlgapikcofpablcmfgaoodlhiejiehhh": {
+            "blacklist": true
+         },
+         "nloaaepkhcnmoakooihnefhhggbmemed": {
+            "blacklist": true
+         },
+         "nmgpbidjnaebdlbdbpjggenmbaolmfoi": {
+            "blacklist": true
+         },
+         "nmmnodocfckpoddcgihiihcdinaonckb": {
+            "blacklist": true
+         },
+         "nmphbnbmgfccfhcmibikmhcgajjpelpf": {
+            "blacklist": true
+         },
+         "nnioepmjbjjlflmdgjanlcmbjahljeeo": {
+            "blacklist": true
+         },
+         "nochkknnbahbhmmknnmdhagelcnfagom": {
+            "blacklist": true
+         },
+         "noefghcilkpcabnhhilojimkkjplhcnd": {
+            "blacklist": true
+         },
+         "npadaghbcdejfngcjpbnoikajdnongca": {
+            "blacklist": true
+         },
+         "npfpmgjnfcklmaipcffpjhapedmpjggj": {
+            "blacklist": true
+         },
+         "npolaghondefgiomhkbiiompikfjneep": {
+            "blacklist": true
+         },
+         "oafccdmmjdpialdmgenjfhijoondgncj": {
+            "blacklist": true
+         },
+         "oakhllhnbcpgagdafgbninlpjdemdmjk": {
+            "blacklist": true
+         },
+         "oanjogmonneelfpnfmdlalfddkeckdej": {
+            "blacklist": true
+         },
+         "obfnipbbnnhkbafmdbbfpgfgbjmmkgpm": {
+            "blacklist": true
+         },
+         "obgljnmbldahelaakfdbjkplokjoneip": {
+            "blacklist": true
+         },
+         "obhplmafmpmelgapjjbfhcdkicnhakhf": {
+            "blacklist": true
+         },
+         "oblicopoaionpjoapgjmmoncjadpdioh": {
+            "blacklist": true
+         },
+         "ochmdkhojipfibbplgpeeggeimnagcfd": {
+            "blacklist": true
+         },
+         "ocmhjnhildbnglmlfimkjnnfgddelacb": {
+            "blacklist": true
+         },
+         "ocnlnkjmfnolmbclblfhfhcakldceiec": {
+            "blacklist": true
+         },
+         "odeckaficnaplobiiaomegfbokokehhb": {
+            "blacklist": true
+         },
+         "odefpckfdnfkeandbeccopcpncnbkonn": {
+            "blacklist": true
+         },
+         "odnamglmogfldajnhkfodmloofeokcmm": {
+            "blacklist": true
+         },
+         "oebmjchahlpmalnjpeagiibojcbfmema": {
+            "blacklist": true
+         },
+         "oelhhkgiajkjfbccafjgggcpkbkjgpij": {
+            "blacklist": true
+         },
+         "oghphhcagopecifjblgdcfihjnlcbcfc": {
+            "blacklist": true
+         },
+         "ogjbodghhojomghbdfnlkppdagkfjede": {
+            "blacklist": true
+         },
+         "oidjdpbndkjhmhmgdoggibcjnippkcgo": {
+            "blacklist": true
+         },
+         "oilfokmpgejhjhecdjjpikloibggpenf": {
+            "blacklist": true
+         },
+         "oimplfccampifgkgndlamabnkcibkngc": {
+            "blacklist": true
+         },
+         "ojglppmhgfohhfeinlhklglifnbfebak": {
+            "blacklist": true
+         },
+         "ojmdhklabgbnnkkilmkcfcemdhognifc": {
+            "blacklist": true
+         },
+         "omceiakkomngangmllpgbjcoeloglald": {
+            "blacklist": true
+         },
+         "omnicnmbagoinlpamknknbcgopadcoci": {
+            "blacklist": true
+         },
+         "oncmkbmjpjlihkpbohlpmjghiiogmoie": {
+            "blacklist": true
+         },
+         "onfbaaifbbahonepmednhkjbhdgogkbl": {
+            "blacklist": true
+         },
+         "onjaecbdddgibdijafoemfiachlbcgkj": {
+            "blacklist": true
+         },
+         "onpnpccdagncipgnoofbhchlbajcjnkd": {
+            "blacklist": true
+         },
+         "oocfbmollajebjjpkahmlnclfhkjijea": {
+            "blacklist": true
+         },
+         "ookcgejbfhcmcanfkfmmmpahflnlajbl": {
+            "blacklist": true
+         },
+         "oomelpjfeldbopnleifpjibbpekflhlg": {
+            "blacklist": true
+         },
+         "opnnngnphijodjhemhdafpnnpdjggofe": {
+            "blacklist": true
+         },
+         "painakdmkedalbggbejpphgjikkmafhc": {
+            "blacklist": true
+         },
+         "pajgiddgjidlcajihkjoacjbplimkgfe": {
+            "blacklist": true
+         },
+         "pbdgmppmccanplobanhfkjndjkmmabgk": {
+            "blacklist": true
+         },
+         "pbekednmpdekknlffkiopooofokfmkla": {
+            "blacklist": true
+         },
+         "pbglijbamgmlcpnnpbfjkbdeheejjloj": {
+            "blacklist": true
+         },
+         "pbipaboekjdfhkfifpkofbfnpbnlolji": {
+            "blacklist": true
+         },
+         "pcaedgdgamlfffkfblocmakhgieggoak": {
+            "blacklist": true
+         },
+         "pcojpoljjgnicbhaffkiphphplijgbcc": {
+            "blacklist": true
+         },
+         "pdhjoamffhjhlkiiminjhmihalkfjaee": {
+            "blacklist": true
+         },
+         "peahabnpipmmfiajjjhgfggbeigbmbgp": {
+            "blacklist": true
+         },
+         "peiijdmlgbelnnmnkighhkpeihmmamio": {
+            "blacklist": true
+         },
+         "pfaooklcbjnkgconjjepimkohgcjmdji": {
+            "blacklist": true
+         },
+         "pfcelnbmkeoaeicedjomcjkcammlkdbk": {
+            "blacklist": true
+         },
+         "pfckhplmfbblecglndaigpojefidapai": {
+            "blacklist": true
+         },
+         "pfgmgcnbngcnhjddppmnloflcidemopc": {
+            "blacklist": true
+         },
+         "pfhlnanelpgjbhndafjamnpfhkjadoip": {
+            "blacklist": true
+         },
+         "pfoiaildicnbcjojocjlpcibenphhbln": {
+            "blacklist": true
+         },
+         "pfonklmafadkmcedjlodommcoipgbcde": {
+            "blacklist": true
+         },
+         "pgelifedkjaohmjehecojkfldinjlamn": {
+            "blacklist": true
+         },
+         "pgjpnfpidejcmjibaaohcmehfohacckf": {
+            "blacklist": true
+         },
+         "pgkcfihepeihdlfphbndagmompiakeci": {
+            "blacklist": true
+         },
+         "pgldfhecfiofkhnbgcncepnkjkeoahlk": {
+            "blacklist": true
+         },
+         "pgmfkblbflahhponhjmkcnpjinenhlnc": {
+            "blacklist": true
+         },
+         "pgmpnhbchhaningbkefchpdalnimjijd": {
+            "blacklist": true
+         },
+         "phkpgooenaonkpnabopdbjjfmphclela": {
+            "blacklist": true
+         },
+         "pihcfdffalbcnmbghijdfcaanagapelf": {
+            "blacklist": true
+         },
+         "pjdhkkcnlbfebiokpeghfffajaabahfo": {
+            "blacklist": true
+         },
+         "pjgbfgdpkbfimabdalhjmmeeelbmkcac": {
+            "blacklist": true
+         },
+         "pjloefkigphblpjminnlpbhjchjafcfc": {
+            "blacklist": true
+         },
+         "pkbbbncikcipejaiiiioboongndhmjgl": {
+            "blacklist": true
+         },
+         "pkbkgagehkkoajkpgnmjegibihpalfdk": {
+            "blacklist": true
+         },
+         "pkbkkendemaimikinaefldfljliecapm": {
+            "blacklist": true
+         },
+         "pkcbihpffghlanbclfmkegjmbijcpobj": {
+            "blacklist": true
+         },
+         "pkdlpbfmpolnhligegklimbccminkioc": {
+            "blacklist": true
+         },
+         "pkhidkonipdjidjglnkfcfhnkfnlefbk": {
+            "blacklist": true
+         },
+         "plfijddblbcdcnammpdmfccchkbdekmm": {
+            "blacklist": true
+         },
+         "pmbjemmaclljifpmnlagkcgpbcipdldb": {
+            "blacklist": true
+         },
+         "pnaaalnkbgjaphhmahecamecmaldknkc": {
+            "blacklist": true
+         },
+         "pnaiiipilbpcceggeanphcpkkihnojan": {
+            "blacklist": true
+         },
+         "pndadpldhngimdmhnajebjldbmcbpjol": {
+            "blacklist": true
+         },
+         "pnnbdjcjeiobikdfikegpclkcimgafpp": {
+            "blacklist": true
+         },
+         "pnpfkfanlgljpkpilhgiimfadggfmhcd": {
+            "blacklist": true
+         },
+         "pnpgiaejfbdapllkchhgchjpdbcpiooa": {
+            "blacklist": true
+         },
+         "pobponmhkpmphbnfhpjdagklbkmjhked": {
+            "blacklist": true
+         },
+         "ppmfajacidhcjbddpgmcmigffpppcadd": {
+            "blacklist": true
+         }
+      },
+      "toolbar": [ "alelhddbbhepgpmgidjdcjakblofbmce" ],
+      "toolbarsize": -1
+   },
+   "google": {
+      "services": {
+         "last_username": "cybDooM@gmail.com",
+         "signin": {
+            "CLIENT_LOGIN_STATUS": {
+               "time": "Wednesday, July 24, 2013",
+               "value": "Successful"
+            },
+            "GET_USER_INFO_STATUS": {
+               "time": "Wednesday, July 24, 2013",
+               "value": "Successful"
+            },
+            "LSID": "DQAAAL0AAABAyGqJkGIjCUrP1U2uOAEemUSyb6ub9aQEWEe3S-q9XGfILGIkAEhKNkNjouCn4MBTwrUHJXmhXQrS2KgtL02qYDBlxFOowD2agUzOeWI3HhuJ1Lr2q-LTgoSky4cxgUiKeyl1lBuE7zWdsQdy4Mq2IoeKX3T6CjFzOVwBNB7LpW0IG-OwQhesVVAnt-LIbZPEzG42WAkwCj6VbD3yUH7BAEGC5LE4XRmM4NFgbr5vfmeBiYu6vSP3svJn7BQqCx8",
+            "OAUTH_LOGIN_STATUS": {
+               "time": "Wednesday, July 24, 2013",
+               "value": "Successful"
+            },
+            "SID": "DQAAALwAAAAhX2GX_vrfltfofiPlHqT8fVDKyRG4bZ1OK9MrDd2eTNi1VgkzWIohx6I4SZ6p-3UqFJYQekzbdyFeJY9eP6uVi9Ugcv9MCS0xS8iN3yLGi4ptBaBT96Y7eRj0iuQmqY-ZNKg5sWqrJmXQ2NtOD77ITOV8PJ5mmkUzUQtLeLZA25hbNPMeNNGjsaLdnsn7cDDVxfIJ50yOVebnT2OdwfFAd6V907OBu3kfWeLM6QFPnrUJ1vrhc5jqYkMdh5nPqow",
+            "SIGNIN_TYPE": {
+               "time": "Wednesday, July 24, 2013",
+               "value": "Signin with credentials"
+            },
+            "USERNAME": "cybDooM@gmail.com",
+            "tokens": {
+               "chromiumsync": {
+                  "status": "Successful",
+                  "time": "Wednesday, July 24, 2013",
+                  "time_internal": "13019128306892020",
+                  "value": "DQAAAL4AAADc0FssKAk6cAZJL9uKrs8R5yY7y53uTrujCmlE9iTOPmGbhcluXPAstmqD3Ax8OExAVf9qIAgr-5QxFk5OUyYnIHckWBy6Br-bHTkvke2OwDqWmkRHSc3q-g04nANgVCIed5JQc755ycg__awdzrCx1sUG3rwzXnj37DLbAdshifD_8boRjs0fBowTW0o9Phz_TC8WpTBzBhXqMVSJMaxtKmXdexU1b-rOlXYA4wXcrVSXnheBVm2EIxLwtTurvu4"
+               },
+               "lso": {
+                  "status": "Successful",
+                  "time": "Wednesday, July 24, 2013",
+                  "time_internal": "13019128306975732",
+                  "value": "DQAAAL8AAAAf8J68RekyIEjOQXdCvyyUN09gOjM79tHPannaH8QeM58p0S-HwjG5FLWIeHeteMOfZSELniI_ciQvK-ZAeSNc8RcvRf8LGVMRF6hAOz43nOtkqzhqNroBbVs5cqY1OvjE1YbQlZ2jGQV23uoDWsrYYSmAlgzImPQmC-6Z8dQ5H0C7MUiXqr_4EjE2yc8KMvGo82lbUnFUWR_-rjz0V1NyWhXHrjcqMXiepwanLvtY6TJSmO2iUV2TRaSbJUMXDZ8\n"
+               },
+               "oauth2LoginRefreshToken": {
+                  "status": "Successful",
+                  "time": "Wednesday, July 24, 2013",
+                  "time_internal": "13019128306695291",
+                  "value": "1/d17ADpRJVKjnuPvtf0iLn2K3DnfcXcTi8gZCK3fmCNA"
+               }
+            }
+         },
+         "username": "cybDooM@gmail.com"
+      }
+   },
+   "homepage": "http://mail.ru/cnt/7993/",
+   "homepage_changed": true,
+   "homepage_is_newtabpage": false,
+   "invalidator": {
+      "client_id": "ZmlEsw/BL5IRZ9EfXm1pYQ==",
+      "invalidation_state": "CicKJQoGCgQIAxABEhIJfyYxQNshnrkRAEHrdv8aJDoaBwiBDBADGAESFB8nVDmTjLHmRAzUHdxmdMfQpK0K",
+      "max_invalidation_versions": [ {
+         "current-ack": {
+            "state": "0EDC0A64EB081E77C461CA8B231648D5",
+            "timestamp": "13019211904684700"
+         },
+         "expected-ack": {
+            "state": "0EDC0A64EB081E77C461CA8B231648D5",
+            "timestamp": "13019211904684700"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "APP",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "9AFE603367B66426068814D2E35BD4B9",
+            "timestamp": "13019211904663481"
+         },
+         "expected-ack": {
+            "state": "9AFE603367B66426068814D2E35BD4B9",
+            "timestamp": "13019211904663481"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "APP_SETTING",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "E912E3D2CF8691439B3141F462A99434",
+            "timestamp": "13019562569880614"
+         },
+         "expected-ack": {
+            "state": "E912E3D2CF8691439B3141F462A99434",
+            "timestamp": "13019562569880614"
+         },
+         "max-version": "1375088668808000",
+         "name": "AUTOFILL",
+         "payload": "W:CheyG+kjXulMKR5WhkIZOxVDR1yLW1OAAhDmjJ64/PahzM4B",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "2C6C9B972270D9E55CA5BC5D7ADF17C9",
+            "timestamp": "13019211904675164"
+         },
+         "expected-ack": {
+            "state": "2C6C9B972270D9E55CA5BC5D7ADF17C9",
+            "timestamp": "13019211904675164"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "AUTOFILL_PROFILE",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "5F14DCCF2401E5927AE03BD6AB84B873",
+            "timestamp": "13019562544257955"
+         },
+         "expected-ack": {
+            "state": "5F14DCCF2401E5927AE03BD6AB84B873",
+            "timestamp": "13019562544257955"
+         },
+         "max-version": "1375088642956000",
+         "name": "BOOKMARK",
+         "payload": "W:CheyG+kjXulMKR5cmvIpmrzK0ye4WlOAAhDmjJ64/PahzM4B",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "523CA047037DD1C15E17213F15A5E6A5",
+            "timestamp": "13019643461590112"
+         },
+         "expected-ack": {
+            "state": "523CA047037DD1C15E17213F15A5E6A5",
+            "timestamp": "13019643461590112"
+         },
+         "max-version": "1375128269566000",
+         "name": "DEVICE_INFO",
+         "payload": "W:CheyG+kjXulMKR5cmvIpmrzK0+kNFFiAAhCj+ryytPalwNsB",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "7E8DA6DCA3B6061C258F9B73C3C05104",
+            "timestamp": "13019211904743785"
+         },
+         "expected-ack": {
+            "state": "7E8DA6DCA3B6061C258F9B73C3C05104",
+            "timestamp": "13019211904743785"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "DICTIONARY",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "DA44488AEDFADC693BBAD18BE9EF35A5",
+            "timestamp": "13019211904686856"
+         },
+         "expected-ack": {
+            "state": "DA44488AEDFADC693BBAD18BE9EF35A5",
+            "timestamp": "13019211904686856"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "EXPERIMENTS",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "C3B7E5527C7E53325F20521E7581C80A",
+            "timestamp": "13019211904679450"
+         },
+         "expected-ack": {
+            "state": "C3B7E5527C7E53325F20521E7581C80A",
+            "timestamp": "13019211904679450"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "EXTENSION",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "7A5EA0859488ED4AD698DBF45F28A833",
+            "timestamp": "13019211904664855"
+         },
+         "expected-ack": {
+            "state": "7A5EA0859488ED4AD698DBF45F28A833",
+            "timestamp": "13019211904664855"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "EXTENSION_SETTING",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "6954925983182CA85DD6478F0E33CC67",
+            "timestamp": "13019211904688883"
+         },
+         "expected-ack": {
+            "state": "6954925983182CA85DD6478F0E33CC67",
+            "timestamp": "13019211904688883"
+         },
+         "max-version": "1374668865784000",
+         "name": "FAVICON_IMAGE",
+         "payload": "W:CheyG+kjXulMKR48BksgmNvd0FQpUCGAAhDmjJ64/PahzM4B",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "66EE6CDFD20F820BFA8DBAF6B39B23C1",
+            "timestamp": "13019577865610525"
+         },
+         "expected-ack": {
+            "state": "66EE6CDFD20F820BFA8DBAF6B39B23C1",
+            "timestamp": "13019577865610525"
+         },
+         "max-version": "1375103965199000",
+         "name": "FAVICON_TRACKING",
+         "payload": "W:CheyG+kjXulMKR5WhkIZOxVDRxRRLlWAAhDmjJ64/PahzM4B",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "85F3D1703F5EC8D0FDFE5F1A98DB6706",
+            "timestamp": "13019211904742609"
+         },
+         "expected-ack": {
+            "state": "85F3D1703F5EC8D0FDFE5F1A98DB6706",
+            "timestamp": "13019211904742609"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "HISTORY_DELETE_DIRECTIVE",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "6DCDCF12F0E19A738A43162D4260D1D9",
+            "timestamp": "13019128324944404"
+         },
+         "expected-ack": {
+            "state": "6DCDCF12F0E19A738A43162D4260D1D9",
+            "timestamp": "13019128324944404"
+         },
+         "max-version": "1365064046902000",
+         "name": "NIGORI",
+         "payload": "W:CheyG+kjXulMKR5cmvIpmrzK041aVKh7AhCTlYzDmICapFo=",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "850EB7ECD43B03A1144FED02E9862F5A",
+            "timestamp": "13019128324942117"
+         },
+         "expected-ack": {
+            "state": "850EB7ECD43B03A1144FED02E9862F5A",
+            "timestamp": "13019128324942117"
+         },
+         "max-version": "1373488774164000",
+         "name": "PASSWORD",
+         "payload": "W:CheyG+kjXulMKR5cmvIpmrzK052SopR/AhDspLWbo4KRz7cB",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "7D18827D19CA2C966740FCB64B95647D",
+            "timestamp": "13019211904748980"
+         },
+         "expected-ack": {
+            "state": "7D18827D19CA2C966740FCB64B95647D",
+            "timestamp": "13019211904748980"
+         },
+         "max-version": "1374680455618000",
+         "name": "PREFERENCE",
+         "payload": "W:CheyG+kjXulMKR48BksgmNvd0CLSsSKAAhCszfrp6NyEuN8B",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "1D9F05D4672C373974852094D4A3E0C6",
+            "timestamp": "13019211904745518"
+         },
+         "expected-ack": {
+            "state": "1D9F05D4672C373974852094D4A3E0C6",
+            "timestamp": "13019211904745518"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "PRIORITY_PREFERENCE",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "B118416DF7AEB967E52B0F99B248AADE",
+            "timestamp": "13019211891113263"
+         },
+         "expected-ack": {
+            "state": "B118416DF7AEB967E52B0F99B248AADE",
+            "timestamp": "13019211891113263"
+         },
+         "max-version": "1374685611531000",
+         "name": "SEARCH_ENGINE",
+         "payload": "W:CheyG+kjXulMKR5cmvIpmrzK02suTyOAAhCj+ryytPalwNsB",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "A34E3D4034D58A313305601A40E0103E",
+            "timestamp": "13019581471526204"
+         },
+         "expected-ack": {
+            "state": "A34E3D4034D58A313305601A40E0103E",
+            "timestamp": "13019581471526204"
+         },
+         "max-version": "1375107571353000",
+         "name": "SESSION",
+         "payload": "W:CheyG+kjXulMKR5cmvIpmrzK091bnFWAAhDmjJ64/PahzM4B",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "8527621B3CFB3FF1B07C35612D3D2059",
+            "timestamp": "13019211904681760"
+         },
+         "expected-ack": {
+            "state": "8527621B3CFB3FF1B07C35612D3D2059",
+            "timestamp": "13019211904681760"
+         },
+         "max-version": "-9223372036854775808",
+         "name": "THEME",
+         "payload": "",
+         "source": "1004"
+      }, {
+         "current-ack": {
+            "state": "9DD5F14D71E553D141F40D983B369B3C",
+            "timestamp": "13019581453307109"
+         },
+         "expected-ack": {
+            "state": "9DD5F14D71E553D141F40D983B369B3C",
+            "timestamp": "13019581453307109"
+         },
+         "max-version": "1375107552651000",
+         "name": "TYPED_URL",
+         "payload": "W:CheyG+kjXulMKR5cmvIpmrzK0//Lm1WAAhDmjJ64/PahzM4B",
+         "source": "1004"
+      } ]
+   },
+   "net": {
+      "http_server_properties": {
+         "servers": {
+            "accounts.google.com.ua:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "accounts.google.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 34,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "accounts.youtube.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "ajax.googleapis.com:443": {
+               "supports_spdy": true
+            },
+            "analytics.twitter.com:443": {
+               "supports_spdy": true
+            },
+            "apis.google.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 47,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "chatenabled.mail.google.com:443": {
+               "settings": {
+                  "4": 10,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "clients1.google.com.ua:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "clients1.google.com:443": {
+               "supports_spdy": true
+            },
+            "clients2.google.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "clients4.google.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "cm.g.doubleclick.net:443": {
+               "supports_spdy": true
+            },
+            "csi.gstatic.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "encrypted-tbn0.gstatic.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "encrypted-tbn1.gstatic.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "encrypted-tbn3.gstatic.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "fonts.googleapis.com:443": {
+               "supports_spdy": true
+            },
+            "googleads.g.doubleclick.net:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "gp5.googleusercontent.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "history.google.com:443": {
+               "supports_spdy": true
+            },
+            "i1.ytimg.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "id.google.com.ua:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "inputtools.google.com:443": {
+               "supports_spdy": true
+            },
+            "lh3.googleusercontent.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "lh6.googleusercontent.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "mail-attachment.googleusercontent.com:443": {
+               "settings": {
+                  "4": 10,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "mail.google.com:443": {
+               "settings": {
+                  "4": 10,
+                  "5": 44,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "pagead2.googlesyndication.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "partner.googleadservices.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "plus.google.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "s.ytimg.com:443": {
+               "supports_spdy": true
+            },
+            "secure.gravatar.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "securepubads.g.doubleclick.net:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "ssl.google-analytics.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "ssl.gstatic.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "t0.gstatic.com:443": {
+               "supports_spdy": true
+            },
+            "t2.gstatic.com:443": {
+               "supports_spdy": true
+            },
+            "themes.googleusercontent.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "tpc.googlesyndication.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 73,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "twitter.com:443": {
+               "supports_spdy": true
+            },
+            "www.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "www.google-analytics.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "www.google.com.ua:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 68,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.google.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.googleadservices.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "www.googleapis.com:443": {
+               "supports_spdy": true
+            },
+            "www.gstatic.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.youtube-nocookie.com:443": {
+               "supports_spdy": true
+            },
+            "www.youtube.com:443": {
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            }
+         },
+         "version": 1
+      }
+   },
+   "ntp": {
+      "app_page_names": [ "\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F" ],
+      "shown_page": 1024
+   },
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "enabled_nacl": true,
+      "last_internal_directory": "/usr/lib/chromium",
+      "plugins_list": [ {
+         "enabled": true,
+         "name": "Chromoting Viewer",
+         "path": "internal-remoting-viewer",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Native Client",
+         "path": "/usr/lib/chromium/libppGoogleNaClPluginChrome.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Chromoting Viewer"
+      }, {
+         "enabled": true,
+         "name": "Native Client"
+      } ],
+      "removed_old_component_pepper_flash_settings": true
+   },
+   "profile": {
+      "avatar_index": 0,
+      "content_settings": {
+         "clear_on_exit_migrated": true,
+         "pattern_pairs": {
+            "[*.]java.com,*": {
+               "plugins": 1
+            },
+            "[*.]rspec.codeschool.com,*": {
+               "fullscreen": 1
+            },
+            "[*.]vk.com,*": {
+               "plugins": 1
+            },
+            "[*.]www.youtube.com,*": {
+               "fullscreen": 1
+            },
+            "https://[*.]ibank.aval.ua:443,*": {
+               "plugins": 1
+            }
+         },
+         "pref_version": 1
+      },
+      "created_by_version": "26.0.1410.63",
+      "default_content_settings": {
+         "popups": 1
+      },
+      "exit_type": "SessionEnded",
+      "exited_cleanly": true,
+      "is_managed": false,
+      "local_profile_id": 1885447,
+      "name": "\u041F\u0440\u043E\u0444\u0438\u043B\u044C \u043F\u043E \u0443\u043C\u043E\u043B\u0447\u0430\u043D\u0438\u044E",
+      "per_host_zoom_levels": {
+         "docs.google.com": 2.2239010334014893,
+         "nokogiri.org": -0.5778829455375671,
+         "wiki.archlinux.org": 1.2239010334014893,
+         "www.graphviz.org": 3.801784038543701,
+         "www.ruby-doc.org": -0.5778829455375671
+      }
+   },
+   "reverse_autologin": {
+      "enabled": false
+   },
+   "selectfile": {
+      "last_directory": "/home/cybdoom/Downloads"
+   },
+   "session": {
+      "restore_on_startup_migrated": true
+   },
+   "sync": {
+      "acknowledged_types": [ "Bookmarks", "Preferences", "Passwords", "Autofill Profiles", "Autofill", "Themes", "Typed URLs", "Extensions", "Search Engines", "Sessions", "Apps", "App settings", "Extension settings", "History Delete Directives", "Dictionary", "Priority Preferences", "Tabs", "Encryption keys" ],
+      "app_settings": true,
+      "apps": true,
+      "autofill": true,
+      "autofill_profile": true,
+      "bookmarks": true,
+      "dictionary": true,
+      "encryption_bootstrap_token": "djEwB1SBiljGrReykj5bbQxU605x59PJabvypfL6Yv/e276ZZcxcPtYGJB/mtU4LkGC6FJ6OrW90lP7azjRLShbAIw==",
+      "extension_settings": true,
+      "extensions": true,
+      "favicon_images": true,
+      "favicon_tracking": true,
+      "has_setup_completed": true,
+      "history_delete_directives": true,
+      "keep_everything_synced": true,
+      "keystore_encryption_bootstrap_token": "djEwrEWHe12ZIl32qLnA7ZN0FJIMQ4si/8Lysa8PSDwXkFCVbZU7t9tvsj31sCrtIuN9fFDv2BLEqieCb+I0g4FjtPv/wrCJlLwUoK+xbonHTw8=",
+      "last_synced_time": "13019847129274275",
+      "passwords": true,
+      "preferences": true,
+      "priority_preferences": true,
+      "search_engines": true,
+      "session_sync_guid": "session_syncsaOb0Wr2lZZ0KFm1Deoj+g==",
+      "sessions": true,
+      "suppress_start": false,
+      "tabs": true,
+      "themes": true,
+      "typed_urls": true
+   },
+   "translate_accepted_count": {
+      "cs": 0,
+      "de": 0,
+      "en": 0,
+      "ru": 0,
+      "tr": 1,
+      "uk": 0
+   },
+   "translate_denied_count": {
+      "cs": 1,
+      "de": 2,
+      "en": 5,
+      "ru": 2,
+      "tr": 0,
+      "uk": 3
+   },
+   "translate_language_blacklist": [ "uk", "en", "ru" ],
+   "translate_site_blacklist": [ "cyber-blog.klan-hub.ru", "www.linkedin.com" ]
+}
